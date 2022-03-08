@@ -1,6 +1,8 @@
 API\_Examples
 ================
 
+TEST
+
 This document contains embedded R code that demonstrates how to access
 the demo Open FI$Cal API, located at <https://catalog.ogopendata.com/>.
 
